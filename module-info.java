@@ -4,5 +4,5 @@
 /**
  * 
  */
-module midsem_01 {
+module PracticeEndSem2 {
 }
