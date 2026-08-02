@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Endsem {
+module Midsem2 {
 }
