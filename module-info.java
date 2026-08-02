@@ -4,5 +4,5 @@
 /**
  * 
  */
-module PracticeEndSem2 {
+module prog1 {
 }
